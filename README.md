@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/502058586.svg)](https://sandbox.zenodo.org/badge/latestdoi/502058586)
+
 # QUB EEECS Python Course
 
 ## Agenda
